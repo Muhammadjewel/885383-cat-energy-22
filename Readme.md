@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Mukhammadjavokhirbek Suratov](https://up.htmlacademy.ru/adaptive/22/user/885383).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Котов](https://htmlacademy.ru/profile/id25083).
 
 ---
 
